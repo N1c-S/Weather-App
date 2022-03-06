@@ -46,3 +46,8 @@ document.querySelector(".searchbar").addEventListener("keydown", function (event
         weather.search();
     }
 });
+
+
+
+
+
