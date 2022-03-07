@@ -21,7 +21,7 @@ body{
 /* styling for card content */
 
 .card {
-    background-image: url('../images/w5pic.jpg');
+    background-image: url('../images/w4pic.jpg');
     padding: 3em;
     width: 100%;
     border-radius: 25px;
@@ -60,8 +60,8 @@ color:white;
 .weather {
     width: 100%;
     height: 180px;
-    background: hsl(0 0% 60% / 0.1);
-    backdrop-filter: blur(2rem);
+    background: hsl(0 0% 20% / 0.1);
+    backdrop-filter: blur(1rem);
     border-radius: 25px;
     padding: 1em;
 }
