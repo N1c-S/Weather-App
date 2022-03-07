@@ -5,10 +5,6 @@ chkbx.addEventListener('change', () => {
     document.body.classList.toggle('dark');
 });
 
-// const DOM_Elements = {
-//     //THIS is what gets sent over to the html file, and will be inserted wherever the'.driver-list' class is located
-//     temp: '.temperature', 
-// }
 
 // api functions
 let weather = {
